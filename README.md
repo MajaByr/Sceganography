@@ -35,3 +35,4 @@ uv sync
 ## Implemented Algorithms
 
 * [Reversible data hiding, 2006](02_reversible_data_hiding/reversible_data_hiding.ipynb)
+* [An Image Steganographic Scheme Based on Pixel-Value Differencing and LSB Replacement Methods, 2004](03_pixel_value_differencing/pixel_value_differencing.ipynb)
