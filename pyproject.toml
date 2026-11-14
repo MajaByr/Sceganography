@@ -1,0 +1,10 @@
+[project]
+name = "sceganography"
+version = "0.1.0"
+description = "Practical implementations of steganographic and watermarking algorithms"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "scikit-image>=0.26.0",
+]
