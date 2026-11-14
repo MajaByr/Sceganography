@@ -36,3 +36,4 @@ uv sync
 
 * [Reversible data hiding, 2006](02_reversible_data_hiding/reversible_data_hiding.ipynb)
 * [An Image Steganographic Scheme Based on Pixel-Value Differencing and LSB Replacement Methods, 2004](03_pixel_value_differencing/pixel_value_differencing.ipynb)
+* [Edge Adaptive Image Steganography Based on LSB Matching Revisited, 2010](05_edge_adaptive_lsb/edge_adaptive_image_lsb.ipynb)
